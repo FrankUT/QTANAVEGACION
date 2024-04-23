@@ -6,4 +6,12 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="iniciar_sesion">Iniciar Sesión</string>
     <string name="ingresar">Ingresar</string>
+    <string name="Dos_mitades">Dos mitades</string>
+    <string name="Dos_palabras">Dos palabras</string>
+    <string name="Quitar_fragmento">Quitar fragmento</string>
+    <string name="TextoDosMitades">Te voy a ayudar a solucionar el problema de las 2 mitades.\n\n1. Ingresa una cadena de caracteres.\n\n2. Te ayudare a cortar la cadena en dos partes \"iguales\" (si la longitud de la cadena es impar, colocare el carácter central en la primera cadena, de modo que la primera cadena contenga un carácter más que la segunda).\n\n3. Luego imprimiré la nueva cadena en una sola fila con la primera y la segunda mitad intercambiadas (la segunda mitad es la primera y la primera mitad es la segunda)</string>
+    <string name="TextoDosPalabras">Te voy a ayudar a solucionar el problema de las 2 palabras.\n\n1. Ingresa una cadena de caracteres que contenga solo 2 palabras separadas por un espacio.\n\n2. Imprimiré una nueva cadena con las posiciones de la primera y segunda palabra intercambiadas (la segunda palabra se imprime primero).</string>
+    <string name="TextoQuitarFragmento">Te voy a ayudar a solucionar el problema quitar el fragmento.\n\n1. Ingresa una cadena de caracteres en la que por lo menos existe 2 veces la letra h.\n\n2. Eliminare de esa cadena la primera y la última aparición de la letra h, así como todos los caracteres entre ellas.\n\n3. Luego imprimiré la nueva cadena en pantalla.</string>
+    <string name="IngresaCadena">Ingresa una cadena de caracteres</string>
+    <string name="solucionar">Solucionar</string>
 </resources>
